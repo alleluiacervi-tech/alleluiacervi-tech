@@ -1,54 +1,60 @@
-# 👋 Hi, I'm Alleluia Cervi
-
-<h3 align="center">🚀 Software Engineer • AI Builder • Systems Thinker</h3>
-
+<!-- 🌌 Animated Space Header -->
 <p align="center">
-  <i>Designing technology that moves beyond code — into impact.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Alleluia%20Cervi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- ✨ Simulated Moving Stars -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+LLM+Builder;Systems+Thinker;Building+Technology+That+Scales;Designing+Impact+Through+Code" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Building **scalable platforms & real-world systems**
-- 🌱 Exploring **AI, LLMs, and intelligent automation**
-- 🌍 Focused on **technology for global impact (Africa & beyond)**
-- 💡 Strong interest in **system design, startups, and innovation**
-- 🎯 Mission: **Turn ideas into powerful, working solutions**
+- 🚀 Engineer focused on **real-world systems & scalable platforms**
+- 🤖 Building with **AI, LLMs, and intelligent automation**
+- 🌍 Driven by **impact, innovation, and global technology**
+- 💡 Strong in **system design, product thinking, and execution**
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
-<p>
+### 💻 Languages  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,sql" />
 </p>
 
-### 🌐 Web & Backend
-<p>
+### 🌐 Web & Backend  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,mongodb,postgres" />
 </p>
 
-### 🤖 AI & Tools
-<p>
+### 🤖 AI & Tools  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-- 🧠 LLM Integration (APIs, Prompt Engineering)
-- ⚙️ Automation Systems
+- 🧠 LLM Integration (APIs, prompt systems)
+- ⚙️ Automation & intelligent workflows
 - 📊 Data-driven applications
 
 ---
 
-## 🚀 Featured Vision
+## 🚀 Vision
 
-### 🌾 Tech-Agrivision Rwanda
-> Transforming agriculture with data, automation, and market access.
+### 🌾 Tech-Agrivision Rwanda  
+> Using technology to transform agriculture and empower farmers.
 
-- 📡 Real-time farmer insights (SMS + platform)
-- 🌦️ Weather + yield prediction (AI-driven)
-- 🌍 Connecting local farmers to global markets
+- 📡 Real-time data (SMS + platform systems)
+- 🌦️ AI-based predictions (weather & yield)
+- 🌍 Market connectivity (local → global)
 
 ---
 
@@ -66,14 +72,14 @@
 
 ## 🤝 Collaboration
 
-- 👯 Open to: **AI projects, startups, and impactful systems**
-- 🌍 Interested in: **global opportunities & innovation-driven teams**
+- 👯 Open to: **AI systems, startups, and impactful platforms**
+- 🌍 Interested in: **global opportunities & high-level collaboration**
 
 ---
 
 ## 📫 Reach Me
 
-<p>
+<p align="center">
   <a href="https://github.com/alleluiacervi-tech">
     <img src="https://img.shields.io/badge/GitHub-alleluiacervi--tech-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -83,5 +89,13 @@
 
 ## ⚡ Philosophy
 
-> *“Some moves don’t make noise…  
-> but they change everything.”*
+<p align="center">
+  <i>“Some moves don’t make noise… but they change everything.”</i>
+</p>
+
+---
+
+<!-- 🌌 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
