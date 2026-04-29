@@ -1,84 +1,87 @@
-# Hi, I'm Alleluia Cervi 👋
+# 👋 Hi, I'm Alleluia Cervi
 
-🚀 Software Developer | AI Enthusiast | Problem Solver  
-🌍 Building technology that creates real-world impact  
+<h3 align="center">🚀 Software Engineer • AI Builder • Systems Thinker</h3>
 
----
-
-## 💡 About Me
-
-I’m a developer focused on building systems that solve real problems — not just writing code, but creating solutions that scale.
-
-From web platforms to AI-driven ideas, I’m deeply interested in how technology can transform industries, especially in developing regions.
-
-- 🌱 Currently exploring: **AI systems, LLMs, and scalable architectures**
-- 🔭 Working on: **real-world platforms with impact (AgriTech, marketplaces, automation)**
-- 🎯 Goal: **Use technology to drive sustainable development and global innovation**
-- 💬 Ask me about: **Web development, system design, AI ideas, or building from scratch**
+<p align="center">
+  <i>Designing technology that moves beyond code — into impact.</i>
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 About Me
 
-### 💻 Programming Languages
-- JavaScript (Node.js)
-- Python
-- TypeScript
-- Java
-- C++
-- SQL
-
-### 🌐 Web & Systems
-- React.js / Next.js
-- Express.js
-- REST APIs & System Design
-- MongoDB / PostgreSQL
-- Firebase
-
-### 🤖 AI & LLMs
-- Working with APIs (OpenAI, etc.)
-- Prompt Engineering
-- AI-powered applications
-- Automation systems
-- Exploring model integration & fine-tuning concepts
+- 🔭 Building **scalable platforms & real-world systems**
+- 🌱 Exploring **AI, LLMs, and intelligent automation**
+- 🌍 Focused on **technology for global impact (Africa & beyond)**
+- 💡 Strong interest in **system design, startups, and innovation**
+- 🎯 Mission: **Turn ideas into powerful, working solutions**
 
 ---
 
-## 🚀 Projects & Vision
+## ⚡ Tech Stack
 
-I focus on building projects that go beyond tutorials.
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,sql" />
+</p>
 
-- 🌾 **Tech-Agrivision Rwanda**  
-  Leveraging technology to transform agriculture, connect farmers to markets, and improve productivity.
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,mongodb,postgres" />
+</p>
 
-- 🧠 AI-driven tools  
-  Building systems that automate processes and enhance decision-making.
+### 🤖 AI & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
 
-- 🌍 Future Vision  
-  Creating scalable platforms that bridge technology gaps in Africa and beyond.
+- 🧠 LLM Integration (APIs, Prompt Engineering)
+- ⚙️ Automation Systems
+- 📊 Data-driven applications
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🚀 Featured Vision
 
-I’m open to working with developers, founders, and organizations building meaningful tech.
+### 🌾 Tech-Agrivision Rwanda
+> Transforming agriculture with data, automation, and market access.
 
-- 👯 Open to: **AI projects, startups, impactful platforms**
-- 🌍 Interested in: **global opportunities and collaborations**
+- 📡 Real-time farmer insights (SMS + platform)
+- 🌦️ Weather + yield prediction (AI-driven)
+- 🌍 Connecting local farmers to global markets
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alleluiacervi-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alleluiacervi-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Collaboration
+
+- 👯 Open to: **AI projects, startups, and impactful systems**
+- 🌍 Interested in: **global opportunities & innovation-driven teams**
 
 ---
 
 ## 📫 Reach Me
 
-- GitHub: https://github.com/alleluiacervi-tech
-- Email: your-email@example.com
-- LinkedIn: your-linkedin
+<p>
+  <a href="https://github.com/alleluiacervi-tech">
+    <img src="https://img.shields.io/badge/GitHub-alleluiacervi--tech-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Mindset
+## ⚡ Philosophy
 
-> “Not everything needs to be loud to be powerful.  
-> Some moves are quiet… but they change everything.”
-
----
+> *“Some moves don’t make noise…  
+> but they change everything.”*
