@@ -1,64 +1,74 @@
-<!-- 🌌 Animated Space Header -->
+<!-- 🌌 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Alleluia%20Cervi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c3c,100:2c5364&height=250&section=header&text=Alleluia%20Cervi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ✨ Simulated Moving Stars -->
+<!-- ✨ Motion Layer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- ⚡ Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+LLM+Builder;Systems+Thinker;Building+Technology+That+Scales;Designing+Impact+Through+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%2F+LLM+Systems;DevOps+%26+Infrastructure;Building+Scalable+Technology;Quiet+Execution.+Loud+Impact." />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile
 
-- 🚀 Engineer focused on **real-world systems & scalable platforms**
-- 🤖 Building with **AI, LLMs, and intelligent automation**
-- 🌍 Driven by **impact, innovation, and global technology**
-- 💡 Strong in **system design, product thinking, and execution**
+I design and build systems that don’t just work — they scale, adapt, and deliver impact.
+
+My focus sits at the intersection of **software engineering, AI systems, and DevOps**, where performance, automation, and reliability define success.
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Core Stack
 
-### 💻 Languages  
+### 💻 Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,sql" />
 </p>
 
-### 🌐 Web & Backend  
+### 🌐 Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,firebase" />
 </p>
 
-### 🤖 AI & Tools  
+### ☁️ DevOps & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,git,github,githubactions" />
 </p>
 
-- 🧠 LLM Integration (APIs, prompt systems)
-- ⚙️ Automation & intelligent workflows
-- 📊 Data-driven applications
+- ⚙️ CI/CD pipelines (GitHub Actions)
+- 🐳 Containerization & orchestration (Docker, Kubernetes)
+- ☁️ Cloud-native systems & deployments
+- 🔐 System reliability, monitoring, and scaling strategies
 
 ---
 
-## 🚀 Vision
+## 🤖 AI & Systems Thinking
+
+- LLM-powered applications (API integrations, prompt systems)
+- Intelligent automation pipelines
+- Data-driven decision systems
+- Designing AI systems that integrate into real workflows
+
+---
+
+## 🚀 Selected Work
 
 ### 🌾 Tech-Agrivision Rwanda  
-> Using technology to transform agriculture and empower farmers.
+> Infrastructure-level thinking applied to agriculture.
 
-- 📡 Real-time data (SMS + platform systems)
-- 🌦️ AI-based predictions (weather & yield)
-- 🌍 Market connectivity (local → global)
+- Real-time distributed data (SMS + platform)
+- Predictive analytics (weather, yield)
+- Scalable system design for rural accessibility
+- Future-ready: IoT + AI integration
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Signals
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alleluiacervi-tech&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -72,12 +82,14 @@
 
 ## 🤝 Collaboration
 
-- 👯 Open to: **AI systems, startups, and impactful platforms**
-- 🌍 Interested in: **global opportunities & high-level collaboration**
+I work best on ideas that matter — systems that solve real problems and scale beyond local boundaries.
+
+- Open to: **AI systems, infrastructure projects, and serious builds**
+- Interested in: **global teams, high-impact startups, deep tech**
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/alleluiacervi-tech">
@@ -87,15 +99,15 @@
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Closing Thought
 
 <p align="center">
-  <i>“Some moves don’t make noise… but they change everything.”</i>
+  <i>“Systems reveal the level of the engineer behind them.”</i>
 </p>
 
 ---
 
-<!-- 🌌 Footer Wave -->
+<!-- 🌌 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1c1c3c,100:0f2027&height=120&section=footer" />
 </p>
